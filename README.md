@@ -1,5 +1,5 @@
 # Course-Syllabus
-Fall 2023 Syllabus
+Spring 2024 Syllabus
 
 This is the source code for the CSE 3320 Operating Systems (Spring 2024) [course](http://www.cse3320.org) syllabus.  
 
