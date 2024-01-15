@@ -12,6 +12,7 @@ ENV PATH="${PATH}:/root/bin"
 RUN tlmgr update --self --all
 RUN tlmgr path add
 RUN fmtutil-sys --all
+RUN tlmgr install collection-latexextra
 
 WORKDIR /
 
